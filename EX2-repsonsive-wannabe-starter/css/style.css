@@ -176,6 +176,19 @@ img {
     .why-us {
         background-color: rgb(31, 31, 31);
     }
+
+    .why-us .row {
+        flex-direction: column;
+    }
+
+    .why-us .col-left {
+        width: 100%;
+    }
+    
+    .why-us .col-right {
+        width: 100%;
+    }
+
  }
 
  /* /SMARTPHONE */
