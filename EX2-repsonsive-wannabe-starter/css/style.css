@@ -147,7 +147,7 @@ img {
 
  /* /TABLET */
 
- /* SMARTPHONE */
+ /* MOBILE */
 
  @media screen and (max-width: 481px) {
 
@@ -198,4 +198,4 @@ img {
 
  }
 
- /* /SMARTPHONE */
+ /* /MOBILE*/
