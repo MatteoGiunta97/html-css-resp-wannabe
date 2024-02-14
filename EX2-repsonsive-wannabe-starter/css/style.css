@@ -172,6 +172,10 @@ img {
        width: 100%;
        padding: 20px;
     }
+
+    .why-us {
+        background-color: rgb(31, 31, 31);
+    }
  }
 
  /* /SMARTPHONE */
