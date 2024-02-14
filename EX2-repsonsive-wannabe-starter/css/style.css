@@ -164,6 +164,10 @@ img {
        padding: 20px;
     }
 
+    .steps {
+        margin-bottom: 0;
+    }
+
     .steps .row {
         flex-wrap: wrap;
     }
@@ -175,6 +179,8 @@ img {
 
     .why-us {
         background-color: rgb(31, 31, 31);
+        margin-bottom: 0;
+        padding-top: 50px;
     }
 
     .why-us .row {
@@ -183,6 +189,7 @@ img {
 
     .why-us .col-left {
         width: 100%;
+        padding-bottom: 20px;
     }
     
     .why-us .col-right {
