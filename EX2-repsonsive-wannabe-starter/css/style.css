@@ -130,18 +130,25 @@ img {
 
  /* TABLET */
 
- /* LESSONS SECTION */
  @media screen and (max-width: 769px) {
 
-    .lessons .container {
+    .container {
         width: 100%;
     }
 
-    .lessons .row {
+    .row {
         margin: 5px;
     }
 
-    .lessons .col {
+    .col {
        width: 100%;
     }
  }
+
+ /* /TABLET */
+
+ /* SMARTPHONE */
+
+ 
+
+ /* /SMARTPHONE */
