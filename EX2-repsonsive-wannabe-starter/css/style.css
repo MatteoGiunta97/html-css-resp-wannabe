@@ -155,12 +155,22 @@ img {
         width: 100%;
     }
 
-    .row {
+    .lessons .row {
         flex-wrap: wrap;
     }
 
     .lessons .col {
        width: 100%;
+       padding: 20px;
+    }
+
+    .steps .row {
+        flex-wrap: wrap;
+    }
+
+    .steps .col {
+       width: 100%;
+       padding: 20px;
     }
  }
 
